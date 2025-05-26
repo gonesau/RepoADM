@@ -6,7 +6,7 @@ const documents = [
     { 
         name: "Test 1", 
         file: "docs/doc1.pdf", 
-        category: ["Institucional", "Socioambiental"],
+        category: ["Infraestructura", "Economia"],
         countries: ["GT"],
         image: "img/thumbnails/1.jpg",
         description: "Acta que Institucionaliza el Proyecto Mesoamérica firmada en 2009 por los países miembros.",
@@ -15,7 +15,7 @@ const documents = [
     { 
         name: "Test 2", 
         file: "docs/doc2.pdf", 
-        category: ["Económico"],
+        category: ["Gobierno"],
         countries: ["MX"],
         image: "img/thumbnails/2.jpg",
         description: "Acta que Institucionaliza el Proyecto Mesoamérica firmada en 2009 por los países miembros.",
@@ -24,7 +24,7 @@ const documents = [
     { 
         name: "Test 3", 
         file: "docs/doc3.pdf", 
-        category: ["Institucional"],
+        category: ["Seguridad"],
         countries: ["SV"],
         image: "img/thumbnails/3.jpg",
         description: "Acta que Institucionaliza el Proyecto Mesoamérica firmada en 2009 por los países miembros.",
